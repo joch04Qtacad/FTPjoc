@@ -1,3 +1,18 @@
+# FTP-joc - Installation
+
+## Installation
+
+1. chargez le APK sur votre tel
+2. il va demander à s'installer
+3. Cliquer sur Install...
+4. valider toutes les autorisations (inspectez le code si vous n'avez pas confiance mais je ne collecte rien, au départ, c'est un app perso pas de pub pas de traquers)
+
+## Mise à jour
+
+Remplacez simplement le APK par une nouvelle version puis réinstallez-la.
+
+## Usage
+
 Encore un outil pour fainéants
 
 En vérité, il y a une vrai motivation, Gdrive retouche les photos et efface les tags EXFI ce qui est pas top pour la photogrammétrie
